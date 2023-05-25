@@ -1,3 +1,4 @@
+version: 1.0
 seeds:
   - name: orders
     description: main order tracking table
